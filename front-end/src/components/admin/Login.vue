@@ -20,7 +20,7 @@
                 <div class="card-body p-4 p-lg-5 text-black">
                   <form @submit.prevent="loginAdmin()">
                     <div class="d-flex align-items-center mb-3 pb-1">
-                      <span class="h1 fw-bold mb-0">NHG BookStore</span>
+                      <span class="h1 fw-bold mb-0">BookStore</span>
                     </div>
 
                     <h5 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px">
